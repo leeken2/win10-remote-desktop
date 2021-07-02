@@ -1,6 +1,6 @@
 # win10-remote-desktop
 
-win10 远程桌面破解
+win10 多用户远程桌面破解
 
 [主要教程](https://github.com/asmtron/rdpwrap/blob/master/binary-download.md)
 
