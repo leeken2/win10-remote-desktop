@@ -9,3 +9,4 @@ win10 远程桌面破解
 3. autoupdate 因为墙的问题，不能正确更新，可以手动下载 [init 文件](https://raw.githubusercontent.com/asmtron/rdpwrap/master/res/rdpwrap.ini)
 4. 用下载的文件覆盖 rdpwrap.ini
  
+运行 RDPConf.exe，全绿说明成功
