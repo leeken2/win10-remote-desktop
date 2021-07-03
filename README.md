@@ -14,4 +14,4 @@ win10 多用户远程桌面破解
 运行 RDPConf.exe，全绿说明成功
 
 ## 注意事项
-- 破解涉及的一些额外操作 [win10多用户远程登录](https://www.cnblogs.com/wmxl/p/10037326.html) keyword `win10多用户远程登录`
+- 破解涉及的一些额外操作 [win10多用户远程登录](https://www.cnblogs.com/wmxl/p/10037326.html),如果链接挂了搜索关键词 `win10多用户远程登录`
